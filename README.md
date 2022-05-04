@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hi%20tKyungminJo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hi%20KyungminJo&fontSize=90)
 
 
 ### Hi there 👋
