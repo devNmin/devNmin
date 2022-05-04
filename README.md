@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi~! KyungminJo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Waving!&amp;fontAlign=80&amp;fontAlignY=40&amp;color=random&height=300&section=header&text=Hi~! KyungminJo&fontSize=90)
 ### Hi there 👋
 
 <!--
