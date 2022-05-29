@@ -6,7 +6,7 @@
 
 🌱 https://devnmin.github.io/
 
-Um...
+🌱 [Image_predict](https://jokyungmin.pythonanywhere.com/predicts/) 
 <!-- ### Hi there 👋 -->
 
 <!--
