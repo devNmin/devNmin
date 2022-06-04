@@ -8,6 +8,9 @@
 
 🌱 [Image_predict](https://jokyungmin.pythonanywhere.com/predicts/) 
 
+🌱 [my_velog](https://velog.io/@dev_n_min) 
+
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
