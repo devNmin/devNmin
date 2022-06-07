@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20there&fontSize=90)
 
-🌱 1day 1commit !!!!!!
+🌱 1day 1commit !!!!
 
 🌱 I’m currently learning programming language!!!!!!!
 
