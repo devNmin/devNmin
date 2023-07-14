@@ -1,14 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20there&fontSize=90)
 
-🌱 1day 1commit !!!!!
 
-🌱 I’m currently learning programming language!!!!!!!
-
-🌱 https://devnmin.github.io/
-
-🌱 [Image_predict](https://jokyungmin.pythonanywhere.com/predicts/) 
-
-🌱 [my_velog](https://velog.io/@dev_n_min) 
 
 
 <div align=center><h1>📚 STACKS</h1></div>
