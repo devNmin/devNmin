@@ -1,5 +1,5 @@
 <!-- 상단 인트로: 좌우 배치 -->
-<table>
+<table align="center">
 <tr>
 <td style="min-width: 400px; vertical-align: top; padding-right: 30px;">
 
@@ -7,7 +7,8 @@
 
 <p><strong>'개발이 일상이 되고, 일상이 콘텐츠가 되는 공간'</strong>을 만들고 있는 Python 백엔드 개발자입니다.</p>
 
-<p>FastAPI 기반의 웹 서비스부터, 자동화와 효율적인 개발 환경 구축까지 — 작지만 확실한 도구들을 만들며 성장하고 있습니다.</p>
+<p>FastAPI 기반의 웹 서비스부터, 자동화와 효율적인 개발 환경 구축까지</p>
+  <p>작지만 확실한 도구들을 만들며 성장하고 있습니다.</p>
 
 <ul>
   <li>🧪 새로운 기술을 탐구하는 걸 좋아하고,</li>
@@ -28,7 +29,7 @@
 <!-- 아래는 전체 폭 사용 -->
 <h2>🛠️ 기술 스택</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
@@ -40,9 +41,10 @@
 ---
 
 ## 📈 GitHub 통계
-
-![devNmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devNmin&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devNmin&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devNmin&show_icons=true&theme=radical" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devNmin&layout=compact&theme=radical" width="49.5%" />
+</p>
 
 ---
 
